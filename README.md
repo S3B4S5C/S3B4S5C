@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.s3b4s5.dev">
+  <a href="https://s3b4s5.dev">
     <img src="https://img.shields.io/badge/Portfolio-s3b4s5.dev-3de7f2?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:sebastian75601012@outlook.com">
